@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 9332b26ee09ca884e9e3e5d0a0216467
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7587325999325750823
+    second: personagem-correndo_0
+  - first:
+      213: -3134931908254002600
+    second: personagem-correndo_1
+  - first:
+      213: 6441158683829099876
+    second: personagem-correndo_2
+  - first:
+      213: 2701842913358716726
+    second: personagem-correndo_3
+  - first:
+      213: 6696685177067315920
+    second: personagem-correndo_4
+  - first:
+      213: 636063462876346962
+    second: personagem-correndo_5
+  - first:
+      213: 1629227619698214116
+    second: personagem-correndo_6
+  - first:
+      213: -7504680812705675051
+    second: personagem-correndo_7
+  - first:
+      213: -8255753042913728181
+    second: personagem-parado
+  - first:
+      213: 7108198986479255182
+    second: personagem-parado_1
+  - first:
+      213: -5809779049375423708
+    second: personagem-correndo_10
+  - first:
+      213: 3292376815381755345
+    second: personagem-correndo_11
+  - first:
+      213: -2601796352429124492
+    second: personagem-correndo_12
+  - first:
+      213: -8597325868843530802
+    second: personagem-correndo_13
+  - first:
+      213: 1320254562594039256
+    second: personagem-correndo_14
+  - first:
+      213: 6104801105412129187
+    second: personagem-correndo_15
+  - first:
+      213: 3838518065503904124
+    second: personagem-correndo_16
+  - first:
+      213: 422119434276409761
+    second: personagem-voltandoAndar_0
+  - first:
+      213: -607085057087123300
+    second: personagem-voltandoAndar_1
+  - first:
+      213: 8211955765273728397
+    second: personagem-voltandoAndar_2
+  - first:
+      213: 7485322672786559382
+    second: personagem-voltandoAndar_3
+  - first:
+      213: -6380183181340289174
+    second: personagem-voltandoAndar_4
+  - first:
+      213: 2628280888690623847
+    second: personagem-voltandoAndar_5
+  - first:
+      213: -2728312945138020929
+    second: personagem-correndo_0
+  - first:
+      213: 3464178591122302480
+    second: personagem-correndo_1
+  - first:
+      213: -373463864202684106
+    second: personagem-correndo_2
+  - first:
+      213: -8270702186594874127
+    second: personagem-correndo_3
+  - first:
+      213: 4594148551819818781
+    second: personagem-correndo_4
+  - first:
+      213: -7005390464434193233
+    second: personagem-correndo_5
+  - first:
+      213: 1177096692137382468
+    second: personagem-correndo_6
+  - first:
+      213: -3141131942298599993
+    second: personagem-correndo_7
+  - first:
+      213: -1173159535329312504
+    second: personagem-parado_0
+  - first:
+      213: -9004357219084880328
+    second: personagem-voltandoCorrer_0
+  - first:
+      213: 7253085587579317877
+    second: personagem-voltandoCorrer_1
+  - first:
+      213: -1580889919376292905
+    second: personagem-voltandoCorrer_2
+  - first:
+      213: 2613522118562978948
+    second: personagem-voltandoCorrer_3
+  - first:
+      213: -509121129531926231
+    second: personagem-voltandoCorrer_4
+  - first:
+      213: 2070198969854071640
+    second: personagem-voltandoCorrer_5
+  - first:
+      213: -4343013901417329338
+    second: personagem-correndo_23
+  - first:
+      213: -927173439181482458
+    second: personagem-correndo_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personagem-correndo_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 58
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc2f4e4d5132ad0800000000000000
+      internalID: -2728312945138020929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-correndo_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 54
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016ab5a131c331030800000000000000
+      internalID: 3464178591122302480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-correndo_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63911cd189031daf0800000000000000
+      internalID: -373463864202684106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-correndo_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 55
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc47fc6e20983d80800000000000000
+      internalID: -8270702186594874127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-correndo_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17789c54c1b1cf30800000000000000
+      internalID: 4594148551819818781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-correndo_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facbd7e1d7ad7ce90800000000000000
+      internalID: -7005390464434193233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-correndo_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 7
+        width: 58
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442d2297433e55010800000000000000
+      internalID: 1177096692137382468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-correndo_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdb8a214257864d0800000000000000
+      internalID: -3141131942298599993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-parado_0
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 54
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80185d74e9918bfe0800000000000000
+      internalID: -1173159535329312504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-parado_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 54
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e33ed315565a260800000000000000
+      internalID: 7108198986479255182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-voltandoCorrer_0
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b8bdf0d81a0380800000000000000
+      internalID: -9004357219084880328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-voltandoCorrer_1
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 5
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eab25d9e228a460800000000000000
+      internalID: 7253085587579317877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-voltandoCorrer_2
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 4
+        width: 55
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d384968efc8f0ae0800000000000000
+      internalID: -1580889919376292905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-voltandoCorrer_3
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 4
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c92911588154420800000000000000
+      internalID: 2613522118562978948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-voltandoCorrer_4
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9299a96b70d3fe8f0800000000000000
+      internalID: -509121129531926231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem-voltandoCorrer_5
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8531884aef2dabc10800000000000000
+      internalID: 2070198969854071640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
